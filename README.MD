@@ -1,6 +1,6 @@
 # Diagram Przypadków użycia aplikacji
 
-Diagramy można pobrać i otworzyć na stronie https://app.diagrams.net lub Otworzyć poprzez udostępniony link do Dysku Googla
+Diagramy można pobrać i lub Otworzyć poprzez udostępniony link do Dysku Googla
 
 Diagram użycia aplikacji na podstawie screenów
 
